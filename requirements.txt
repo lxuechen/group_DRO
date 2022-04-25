@@ -1,0 +1,10 @@
+matplotlib==3.0.3
+numpy==1.16.2
+pandas==0.24.2
+pillow==5.4.1
+# Newer than in doc.
+torch
+pytorch_transformers
+torchvision
+tqdm
+pandas
